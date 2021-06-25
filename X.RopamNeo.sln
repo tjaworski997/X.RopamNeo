@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "X.RopamNeo.Service", "X.RopamNeo.Service\X.RopamNeo.Service.csproj", "{C3A5809A-89DD-4654-9930-92BC29C3BCD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "X.RopamNeo.Lib", "X.RopamNeo.Lib\X.RopamNeo.Lib.csproj", "{E4CF113F-B9F1-4779-9569-FCEE495D8648}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3A5809A-89DD-4654-9930-92BC29C3BCD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3A5809A-89DD-4654-9930-92BC29C3BCD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3A5809A-89DD-4654-9930-92BC29C3BCD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3A5809A-89DD-4654-9930-92BC29C3BCD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4CF113F-B9F1-4779-9569-FCEE495D8648}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4CF113F-B9F1-4779-9569-FCEE495D8648}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4CF113F-B9F1-4779-9569-FCEE495D8648}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4CF113F-B9F1-4779-9569-FCEE495D8648}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFDCC192-BEF7-4F71-A076-0E6FF3AF153D}
+	EndGlobalSection
+EndGlobal
